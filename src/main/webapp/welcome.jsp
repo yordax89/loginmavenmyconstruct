@@ -1,0 +1,1 @@
+El registro es exitoso. Por favor inicie sesión aquí <a href='index.jsp'>Inicie sesion</a>
